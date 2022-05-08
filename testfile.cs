@@ -16,4 +16,9 @@ public class testclass
     {
         Console.WriteLine("Hello World!");
     }
+
+    public static void testmethodAdded_IT1()
+    {
+        Console.WriteLine("Hello World!");
+    }
 }
