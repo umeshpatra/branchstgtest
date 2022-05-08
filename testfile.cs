@@ -11,4 +11,9 @@ public class testclass
     {
         Console.WriteLine("Hello World!");
     }
+
+    public static void testmethod2Added_Development()
+    {
+        Console.WriteLine("Hello World!");
+    }
 }
